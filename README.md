@@ -1,3 +1,5 @@
+# A second revision of this case design is available at [https://github.com/xyzz/xyztkl-r2](https://github.com/xyzz/xyztkl-r2)
+
 # xyztkl rev1
 
 <img src="img/image0.jpg" width="400px"> <img src="img/image1.jpg" width="400px">
